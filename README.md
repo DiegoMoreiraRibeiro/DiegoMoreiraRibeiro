@@ -1,10 +1,12 @@
--  Hi, I’m <b>@DiegoMoreiraRibeiro</b> 👋 👋 👋
-<p>
-  I currently working at BMG Bank as an outsourced by company ACT Digital
-</p>
-<br />
+:star:  Hi, I’m <b>@DiegoMoreiraRibeiro</b> 👋 👋 👋
 
-- 👀 I’m interested in:
+  I currently working at BMG Bank as an outsourced by company ACT Digital
+  
+  <br>
+
+___________________________________________________________________________________________________________________________________________
+
+:star: 👀 I’m interested in:
 
 <a title='NODEJS'><img height='70' src='https://iconape.com/wp-content/png_logo_vector/node-js-2.png' /></a>
 <a title='Angular'><img  height='60' src='https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg' /></a>
@@ -13,9 +15,11 @@
 <a title='React'><img  height='60' src='https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png' /></a>
 <a title='Docker'><img  height='60' src='https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png' /></a>
 
+<br>
+
 ____________________________________________________________________________________________________________________________________________
 
-- 🌱 I’m currently learning ...
+:star: 🌱 I’m currently learning ...
 
 Docker, NodeJs and RabbitMQ 
 
@@ -23,5 +27,7 @@ Docker, NodeJs and RabbitMQ
 
 ____________________________________________________________________________________________________________________________________________
 
+<br>
+
 Follow me
-<a href="https://www.linkedin.com/in/diego-moreira-a537ab87/" target='blank'> @DiegoMoreiraRibeiro </a>
+<a href="https://www.linkedin.com/in/diego-moreira-a537ab87/" target='blank'> <b>@DiegoMoreiraRibeiro</b> </a>
