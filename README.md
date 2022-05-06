@@ -1,12 +1,12 @@
 -  Hi, I’m <b>@DiegoMoreiraRibeiro</b> 👋 👋 👋
 <p>
-  I currently work at BMG  Bank as a third party, for the company ACT Digital
+  I currently working at BMG Bank as an outsourced by company ACT Digital
 </p>
 <br />
 
 - 👀 I’m interested in:
 
-<a title='NODEJS'><img height='60' src='https://iconape.com/wp-content/png_logo_vector/node-js-2.png' /></a>
+<a title='NODEJS'><img height='70' src='https://iconape.com/wp-content/png_logo_vector/node-js-2.png' /></a>
 <a title='Angular'><img  height='60' src='https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg' /></a>
 <a title='C#'><img  height='60' src='https://www.freeiconspng.com/uploads/c-logo-icon-18.png' /></a>
 <a title='.Net Core'><img  height='60' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png' /></a>
