@@ -1,12 +1,14 @@
 :star:  Hi, I’m <b>@DiegoMoreiraRibeiro</b> 👋 👋 👋
 
-  I currently working at BMG Bank as an outsourced by company ACT Digital
-  
+  I currently work at Banco BMG
+  <br>
   <br>
 
 ___________________________________________________________________________________________________________________________________________
 
 :star: 👀 I’m interested in:
+
+<a title='KOTLIN'><img height='70' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png' /></a>
 
 <a title='NODEJS'><img height='70' src='https://iconape.com/wp-content/png_logo_vector/node-js-2.png' /></a>
 <a title='Angular'><img  height='60' src='https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg' /></a>
@@ -21,7 +23,7 @@ ________________________________________________________________________________
 
 :star: 🌱 I’m currently learning ...
 
-Docker, NodeJs and RabbitMQ 
+
 
 <a title='Docker'><img  height='100' src='https://miro.medium.com/max/739/1*oatlH9vOqibaFRZqlEA1Zw.png' /></a>
 
@@ -30,4 +32,4 @@ ________________________________________________________________________________
 <br>
 
 Follow me
-<a href="https://www.linkedin.com/in/diego-moreira-a537ab87/" target='blank'> <b>@DiegoMoreiraRibeiro</b> </a>
+<a href="https://www.linkedin.com/in/diego-moreira-ribeiro-dev/" target='blank'> <b>@DiegoMoreiraRibeiro</b> </a>
