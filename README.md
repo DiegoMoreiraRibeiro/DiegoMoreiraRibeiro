@@ -8,8 +8,7 @@ ________________________________________________________________________________
 
 :star: 👀 I’m interested in:
 
-<a title='KOTLIN'><img height='70' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png' /></a>
-
+<a title='KOTLIN'><img height='60' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png' /></a>
 <a title='NODEJS'><img height='70' src='https://iconape.com/wp-content/png_logo_vector/node-js-2.png' /></a>
 <a title='Angular'><img  height='60' src='https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg' /></a>
 <a title='C#'><img  height='60' src='https://www.freeiconspng.com/uploads/c-logo-icon-18.png' /></a>
